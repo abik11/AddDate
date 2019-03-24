@@ -1,0 +1,7 @@
+# .gitignore
+/.git
+/.vs
+/bin
+/obj
+.gitignore.bak
+Adddate.csproj.user
